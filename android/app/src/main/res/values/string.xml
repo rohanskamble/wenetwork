@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeNetwork</string>>
+    <string name="facebook_app_id">1067272400871041</string>
+    <string name="fb_login_protocol_scheme">fb1067272400871041</string>
+    <string name="facebook_client_token">c89714a2d4e7a92e9a0d68758b22fc71</string>
+
+
+</resources>

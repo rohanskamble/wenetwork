@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43868729086",
+    "project_id": "wenetwork-fdbbb",
+    "storage_bucket": "wenetwork-fdbbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43868729086:android:28d0c684b5d74292a27faf",
+        "android_client_info": {
+          "package_name": "com.example.wenetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43868729086-72ldjg08nvd1dgs4u81bpg3j34lnk7v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRatqHZQ7mYCWuvkOs2OXjRnmsMqBGWHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43868729086-72ldjg08nvd1dgs4u81bpg3j34lnk7v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
